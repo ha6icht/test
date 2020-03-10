@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: chocolate;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+img{
+    height: 250px;
+    width: 320px;
+    cursor: pointer;
+}
